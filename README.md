@@ -1,4 +1,4 @@
-# messedger
+# messeger
 
 ## Project setup
 ```
