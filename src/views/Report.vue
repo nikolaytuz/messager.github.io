@@ -18,6 +18,9 @@ export default {
     LeftComponent,
     RigthComponent
   },
+  mounted(){
+    this.selectReport = this.reports[0]
+  },
   methods:{
     selectF(i){
       this.selectReport = this.reports[i]

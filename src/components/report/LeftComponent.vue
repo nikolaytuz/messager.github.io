@@ -43,7 +43,7 @@ export default {
 }
   .collumn_report{
     max-width: 400px;
-    height: calc(100vh - 67px);
+    min-height: 100vh;
     background: #2F3136;
     color: #DEDEDE;
   }

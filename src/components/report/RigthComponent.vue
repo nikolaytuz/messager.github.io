@@ -44,7 +44,7 @@ export default {
 <style scoped>
 
 .collumn_report{
-  height: calc(100vh - 67px);
+  min-height: 100vh;
   background: #40444B;
   color: #DEDEDE;
 }
