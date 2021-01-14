@@ -25,7 +25,7 @@ export default {
 
 <style media="screen">
 .fonPlanet {
-  box-shadow: 0 0 25px #000;
+  box-shadow: 0 0 85px #000;
   /* padding-top: 30px; */
   position: relative;
 	background: #474B50;

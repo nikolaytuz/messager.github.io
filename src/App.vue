@@ -27,11 +27,11 @@ export default {
   left: 0;
   height: 100%;
   width: 100%;
-  background: #00000070;
+  background: rgba(0, 0, 0, 0.5);
   position: absolute;
 }
 .fon{
-  background: url(/img/wallhave.jpg);
+  background: url(/img/wallhave3.jpg);
 }
 .container_messeger{
   width: 100%;
